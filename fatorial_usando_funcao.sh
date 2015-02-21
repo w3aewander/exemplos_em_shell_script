@@ -1,7 +1,9 @@
 #!/bin/bash
-# Fatorial usando função
+# Fatorial usando recursividade
 #@author Wanderlei Silva do Carmo <wander.silva@gmail.com>
 #@version 1.0
+#
+# https://github.com/w3aewander/exemplos_em_shell_script.git
 #
 
 function fatorial() {
